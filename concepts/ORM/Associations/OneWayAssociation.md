@@ -35,7 +35,7 @@ module.exports = {
       type: 'integer'
     },
     pony:{
-      model: 'pet'
+      collection: 'pet'
     }
   }
 }
